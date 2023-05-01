@@ -1,0 +1,72 @@
+items:
+  - name: BandageDressing
+    factor: 2
+    restock: 1800
+    lifetime: 10800
+    tier: 1
+
+  - name: Morphine
+    factor: 2
+    restock: 1800
+    lifetime: 10800
+    tier: 1
+
+  - name: Epinephrine
+    factor: 2
+    restock: 1800
+    lifetime: 10800
+    tier: 1
+
+  - name: TetracyclineAntibiotics
+    factor: 2
+    restock: 1800
+    lifetime: 10800
+    tier: 1
+
+  - name: VitaminBottle
+    factor: 2
+    restock: 1800
+    lifetime: 10800
+    tier: 1
+
+  - name: PainkillerTablets
+    factor: 2
+    restock: 1800
+    lifetime: 10800
+    tier: 1
+
+  - name: SalineBagIV
+    factor: 2
+    restock: 1800
+    lifetime: 10800
+    tier: 1
+
+  - name: BloodBagIV
+    factor: 2
+    restock: 1800
+    lifetime: 10800
+    tier: 1
+
+  - name: BloodTestKit
+    factor: 2
+    restock: 1800
+    lifetime: 10800
+    tier: 1
+
+  - name: DisinfectantAlcohol
+    factor: 2
+    restock: 1800
+    lifetime: 10800
+    tier: 1
+
+  - name: IodineTincture
+    factor: 2
+    restock: 1800
+    lifetime: 10800
+    tier: 1
+
+  - name: CharcoalTablets
+    factor: 2
+    restock: 1800
+    lifetime: 10800
+    tier: 1

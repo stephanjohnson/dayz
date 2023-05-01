@@ -1,0 +1,6 @@
+items:
+  - name: AKM
+    factor: 2
+    restock: 1800
+    lifetime: 10800
+    tier: 1

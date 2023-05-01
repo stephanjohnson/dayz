@@ -1,0 +1,60 @@
+items:
+  - name: BeansCan
+    factor: 2
+    restock: 1800
+    lifetime: 10800
+    tier: 1
+
+  - name: BakedBeansCan
+    factor: 2
+    restock: 1800
+    lifetime: 10800
+    tier: 1
+
+  - name: SardinesCan
+    factor: 2
+    restock: 1800
+    lifetime: 10800
+    tier: 1
+
+  - name: TunaCan
+    factor: 2
+    restock: 1800
+    lifetime: 10800
+    tier: 1
+
+  - name: Rice
+    factor: 2
+    restock: 1800
+    lifetime: 10800
+    tier: 1
+
+  - name: WaterBottle
+    factor: 2
+    restock: 1800
+    lifetime: 10800
+    tier: 1
+
+  - name: Canteen
+    factor: 2
+    restock: 1800
+    lifetime: 10800
+    tier: 1
+
+  - name: SodaCan_Cola
+    factor: 2
+    restock: 1800
+    lifetime: 10800
+    tier: 1
+
+  - name: SodaCan_Pipsi
+    factor: 2
+    restock: 1800
+    lifetime: 10800
+    tier: 1
+
+  - name: SodaCan_Spite
+    factor: 2
+    restock: 1800
+    lifetime: 10800
+    tier: 1

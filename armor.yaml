@@ -1,42 +1,48 @@
 items:
-  - name: AKM
+  - name: USMCJacket_Woodland
     factor: 2
     restock: 1800
     lifetime: 10800
     tier: 1
 
-  - name: AmmoBox_762x39_20Rnd
+  - name: PlateCarrierVest
     factor: 2
     restock: 1800
     lifetime: 10800
     tier: 1
 
-  - name: M4A1
+  - name: MICH2000Helmet
     factor: 2
     restock: 1800
     lifetime: 10800
     tier: 1
 
-  - name: AmmoBox_556x45_20Rnd
+  - name: PoliceJacket
     factor: 2
     restock: 1800
     lifetime: 10800
     tier: 1
 
-  - name: BaseballBat
-    factor: 0.5
+  - name: PoliceVest
+    factor: 2
     restock: 1800
     lifetime: 10800
     tier: 1
 
-  - name: Crowbar
-    factor: 0.5
+  - name: PoliceCap
+    factor: 2
     restock: 1800
     lifetime: 10800
     tier: 1
 
-  - name: Machete
-    factor: 0.5
+  - name: FirefightersJacket_Beige
+    factor: 2
+    restock: 1800
+    lifetime: 10800
+    tier: 1
+
+  - name: FirefightersHelmet_Red
+    factor: 2
     restock: 1800
     lifetime: 10800
     tier: 1

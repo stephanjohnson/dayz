@@ -1,0 +1,66 @@
+items:
+  - name: Matchbox
+    factor: 2
+    restock: 1800
+    lifetime: 10800
+    tier: 1
+
+  - name: Roadflare
+    factor: 2
+    restock: 1800
+    lifetime: 10800
+    tier: 1
+
+  - name: Chemlight_Red
+    factor: 2
+    restock: 1800
+    lifetime: 10800
+    tier: 1
+
+  - name: Chemlight_Green
+    factor: 2
+    restock: 1800
+    lifetime: 10800
+    tier: 1
+
+  - name: Chemlight_Blue
+    factor: 2
+    restock: 1800
+    lifetime: 10800
+    tier: 1
+
+  - name: CanOpener
+    factor: 2
+    restock: 1800
+    lifetime: 10800
+    tier: 1
+
+  - name: CookingPot
+    factor: 2
+    restock: 1800
+    lifetime: 10800
+    tier: 1
+
+  - name: PortableGasStove
+    factor: 2
+    restock: 1800
+    lifetime: 10800
+    tier: 1
+
+  - name: GasCanister
+    factor: 2
+    restock: 1800
+    lifetime: 10800
+    tier: 1
+
+  - name: Rope
+    factor: 2
+    restock: 1800
+    lifetime: 10800
+    tier: 1
+
+  - name: SewingKit
+    factor: 2
+    restock: 1800
+    lifetime: 10800
+    tier: 1
